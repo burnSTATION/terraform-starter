@@ -1,5 +1,5 @@
 resource "aws_iam_group" "dms_users_group" {
-  name = "dms_users"
+  name = "dms_users1"
   path = "/dms_users/"
 }
 
